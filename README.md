@@ -6,3 +6,5 @@ In this project different machine learning models were derived and tested to det
 While Decision Tree based algortihms (Random Forest, Gradient Boosting) were fairly good classifiers, support
 vector machines showed a horrible performance. Finally, convolutional neural networks were tested and outperformed
 all classical machine learning approaches easily. 
+
+As the resources of the local machine used were limited, all the notebook was processed via Google Colab.
